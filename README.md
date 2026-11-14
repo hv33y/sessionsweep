@@ -49,8 +49,6 @@ Tampermonkey will open an installation screen. Review the script and click **Ins
 
 Open [Google’s device-activity page](https://myaccount.google.com/device-activity), scroll through the device list, and click **Start sequential sign-out**.
 
-> Disable older versions of the script before running SessionSweep. Review the session count before confirming.
-
 The userscript is scoped to:
 
 ```text
